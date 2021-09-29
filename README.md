@@ -12,3 +12,6 @@ arduino 74hc595 projects.
 arduino rgb led rainbow code
 74hc595 led chaser
 arduino rgb led with 20 effects.
+
+**Watch This video:**
+https://youtu.be/c5dpqXnZFqw
