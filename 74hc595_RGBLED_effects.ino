@@ -29,47 +29,47 @@ void setup() {
 }
 
 void loop() {
-//  effect_1(1);//effect_X(how many time you want to repeat the effect.)
-//  ledOff(0);  //ledOff(leds off time )
-//  effect_2(1);
-//  ledOff(0);
- effect_3(1);
-//  ledOff(0);
-//  effect_4(4);
-//  ledOff(0);
-//  effect_5(2);
-//  ledOff(0);
-//  effect_6(1);
-//  ledOff(0);
-//  effect_7(3);
-//  ledOff(0);
-//  effect_8(1);
-//  ledOff(0);
-//  effect_9(1);
-//  ledOff(0);
-//  effect_10(1);
-//  ledOff(0);
-//  effect_11(1);
-//  ledOff(0);
-//  effect_12(2);
-//  ledOff(0);
-//  effect_13(1);
-//  ledOff(0);
-//  effect_14(1);
-//  ledOff(0);
-//  effect_15(3);
-//  ledOff(0);
-//  effect_16(1);
-//  ledOff(0);
-//  effect_17(1);
-//  ledOff(0);
-//  effect_18(1);
-//  ledOff(0);
-//  effect_19(2);
-//  ledOff(0);
-//  effect_20(5);
-//  ledOff(0);
-//  delay(1000);
+  effect_1(1);//effect_X(how many time you want to repeat the effect.)
+  ledOff(0);  //ledOff(leds off time )
+  effect_2(1);
+  ledOff(0);
+  effect_3(1);
+  ledOff(0);
+  effect_4(4);
+  ledOff(0);
+  effect_5(2);
+  ledOff(0);
+  effect_6(1);
+  ledOff(0);
+  effect_7(3);
+  ledOff(0);
+  effect_8(1);
+  ledOff(0);
+  effect_9(1);
+  ledOff(0);
+  effect_10(1);
+  ledOff(0);
+  effect_11(1);
+  ledOff(0);
+  effect_12(2);
+  ledOff(0);
+  effect_13(1);
+  ledOff(0);
+  effect_14(1);
+  ledOff(0);
+  effect_15(3);
+  ledOff(0);
+  effect_16(1);
+  ledOff(0);
+  effect_17(1);
+  ledOff(0);
+  effect_18(1);
+  ledOff(0);
+  effect_19(2);
+  ledOff(0);
+  effect_20(5);
+  ledOff(0);
+  delay(1000);
 }
 //////////////////////////////////////////////////////EFFECT 1
 void effect_1(int repeatEffect) {
